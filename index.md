@@ -2,9 +2,8 @@
 layout: page
 title: ""
 ---
-<p align='right'>
-![title](/assets/me2.jpg){width=200}
-</p>
+
+![title](/assets/me2.jpg){:width=200}
 
 Welcome to my website!
 
