@@ -3,9 +3,6 @@ layout: page
 title: ""
 ---
 
-<div class ="small">
-![title](/assets/me2.jpg)
-</div>
 
 Welcome to my website!
 
