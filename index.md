@@ -3,8 +3,7 @@ layout: page
 title: ""
 ---
 
-![Foto]({{ site.url }}/images/me2.jpg "Beeke Muhlack"){height=200}
-
+![title](/assets/me2.jpg)
 Welcome to my website!
 
 I am a research assistant and a PhD student in the Phonetics group in the Language Science and Technology department at Saarland University in Saarbrücken, Germany.
