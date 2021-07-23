@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 
-![title](/assets/me2.jpg){:width=200}
+![title](/assets/me2.jpg){ width: 200px; }
 
 Welcome to my website!
 
