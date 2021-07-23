@@ -7,7 +7,7 @@ muhlack[at]lst.uni-saarland.de
 
 ### Postal Adress
 
-Saarland University//
+Saarland University\\
 Language Science and Technology\\
-Campus C7.2
+Campus C7.2\\
 D-66123 Saarbrücken
