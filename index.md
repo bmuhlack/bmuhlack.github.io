@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 
-<div class ="smaller">
+<div class ="large">
 ![title](/assets/me2.jpg)
 </div>
 
