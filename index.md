@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 
-![Foto]({{ site.url }}/images/me2.jpg "Beeke Muhlack"){:height="200px" .center-image}
+![Foto]({{ site.url }}/images/me2.jpg "Beeke Muhlack"){height=200}
 
 Welcome to my website!
 
