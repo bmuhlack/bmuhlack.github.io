@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 
-![title](/assets/me2.jpg){ width: 200px; }
+![title](/assets/me2.jpg){:height="400px" .center-image}
 
 Welcome to my website!
 
