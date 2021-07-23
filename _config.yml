@@ -1,6 +1,6 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+title: "Beeke Muhlack"
+author: "Beeke Muhlack"
+description: ""
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -16,13 +16,16 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "README.md"}
+  - {file: "index.html", title: "Home"}
+  - {file: "career.md", title: "Career"}
+  - {file: "publications.md", title: "Publications"}
+  - {file: "contact.md", title: "Contact"
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: Mail, icon: envelope, url: "mailto:muhlack@lst.uni-saarland.de"}
+  - {title: Github, icon: github, url: "https://github.com/bmuhlack"}
+  - {title: Researchgate, icon: researchgate, url: "https://www.researchgate.net/profile/Beeke-Muhlack"}
+  - {title: Orcid, icon: orcid, url: "https://orcid.org/0000-0002-0650-0108"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
