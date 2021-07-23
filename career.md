@@ -2,14 +2,14 @@
 layout: page
 title: "Academic career"
 ---
-## Current Position
+### Current Position
 Research assistant and PhD student in the Phonetics group
 
 Universität des Saarlandes, Saarbrücken (Germany)
 
 
 
-## Education
+### Education
 2017-20 M.A. Speech Science (specialisation: Phonetics)
 
 Philipps-Universität Marburg (Germany)
@@ -26,7 +26,7 @@ Philipps-Universität Marburg (Germany)
 
 
 
-## Research Interests
+### Research Interests
 
 - hesitation particles
 - forensic phonetics
