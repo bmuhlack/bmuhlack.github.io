@@ -3,9 +3,9 @@ layout: page
 title: ""
 ---
 
-#<div class ="large">
-#![title](/assets/me2.jpg)
-#</div>
+<div class ="small">
+![title](/assets/me2.jpg)
+</div>
 
 Welcome to my website!
 
