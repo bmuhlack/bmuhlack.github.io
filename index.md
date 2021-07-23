@@ -3,7 +3,9 @@ layout: page
 title: ""
 ---
 
-![title](/assets/me2.jpg){:height="400px" .center-image}
+<div class ="smaller">
+![title](/assets/me2.jpg)
+</div>
 
 Welcome to my website!
 
