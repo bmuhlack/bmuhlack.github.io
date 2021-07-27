@@ -25,8 +25,8 @@ Philipps-Universität Marburg (Germany)
 
 
 ### Student assistant positions
-Phonetik
-REDE
+- Phonetik
+- REDE
 
 ### Research Interests
 
