@@ -49,30 +49,45 @@ Frank, M., **Muhlack, B.**, Zebe, F., and Scharinger, M. (2019). Pitch, Formants
 
 **You could have met me here:**
 
-### 2021
-- Interfaces of Phonetics, Oldenburg/Online
-- Konferenz Elektronische Sprachsignalverarbeitung (ESSV), Berlin/Online
-- Jahrestagung der Deutschen Gesellschaft für Sprachwissenschaft (DGfS), Freiburg/Online
-- Meeting of the Associazione Italiana Scienze della Voce (AISV), Zurich/Online
+<details>
+  <summary>2021</summary>
+  <ul>
+<li>Interfaces of Phonetics, Oldenburg/Online</li>
+<li>Konferenz Elektronische Sprachsignalverarbeitung (ESSV), Berlin/Online</li>
+<li>Jahrestagung der Deutschen Gesellschaft für Sprachwissenschaft (DGfS), Freiburg/Online</li>
+<li>Meeting of the Associazione Italiana Scienze della Voce (AISV), Zurich/Online</li>
+  </ul>
+  </details>
+  
+  
+<details>
+  <summary>2020</summary>
+  <ul>
+<li>International Seminar on Speech Production (ISSP), Providence/Online</li>
+<li>Interspeech, Shanghai/Online</li>
+<li>Workshop on Laughter and Other Vocalisations, Bielefeld/Online</li>
+<li>Sprachwissenschaftliche Tagung für Promotionsstudierende (STaPs), Wien/Online</li>
+<li>Phonetik und Phonologie im deutschsprachigen Raum (P&P), Trier/Online</li>
+<li>International Conference on Speech Prosody, Tokyo/Online</li>
+  </ul>
+  </details>
 
-### 2020
-- International Seminar on Speech Production (ISSP), Providence/Online
-- Interspeech, Shanghai/Online
-- Workshop on Laughter and Other Vocalisations, Bielefeld/Online
-- Sprachwissenschaftliche Tagung für Promotionsstudierende (STaPs), Wien/Online
-- Phonetik und Phonologie im deutschsprachigen Raum (P&P), Trier/Online
-- International Conference on Speech Prosody, Tokyo/Online
 
-### 2019
-- Kolloquium Forum Sprachvariation der Internationalen Gesellschaft für Dialektologie des Deutschen (IGDD)\\ und 8. Nachwuchskolloquium des Vereins für niederdeutsche Sprachforschung (VndS), Vechta
-- Phonetik und Phonologie im deutschsprachigen Raum (P&P), Düsseldorf
-- Annual Meeting of the Society for the Neurobiology of Language (SNL), Helsinki
-- Studentische Tagung Sprachwissenschaft (StuTS), Köln
+<details>
+  <summary>2019</summary>
+  <ul>
+<li>Kolloquium Forum Sprachvariation der Internationalen Gesellschaft für Dialektologie des Deutschen (IGDD)\\ und 8. Nachwuchskolloquium des Vereins für niederdeutsche Sprachforschung (VndS), Vechta</li>
+<li>Phonetik und Phonologie im deutschsprachigen Raum (P&P), Düsseldorf</li>
+<li>Annual Meeting of the Society for the Neurobiology of Language (SNL), Helsinki</li>
+<li>Studentische Tagung Sprachwissenschaft (StuTS), Köln</li>
+  </ul>
+  </details>
+
 
 <details>
   <summary>2018</summary>
   <ul>
-    <li>Phonetik und Phonologie im deutschsprachigen Raum (P&P), Wien</li>
+<li>Phonetik und Phonologie im deutschsprachigen Raum (P&P), Wien</li>
 <li>Kongress der Internationalen Gesellschaft für Dialektologie des Deutschen (IGDD), Marburg</li>
 <li>Studentische Tagung Sprachwissenschaft (StuTS), Kiel</li>
   </ul>
