@@ -45,9 +45,7 @@ Frank, M., **Muhlack, B.**, Zebe, F., and Scharinger, M. (2019). Pitch, Formants
 - Phonetik und Phonologie im deutschsprachigen Raum (P&P), Frankfurt/Online
 
 
-
-<details>
-  <summary>**You could have met me here:</summary>
+**You could have met me here:**
 
 ### 2021
 - Interfaces of Phonetics, Oldenburg/Online
@@ -74,4 +72,3 @@ Frank, M., **Muhlack, B.**, Zebe, F., and Scharinger, M. (2019). Pitch, Formants
 - Phonetik und Phonologie im deutschsprachigen Raum (P&P), Wien.
 - Kongress der Internationalen Gesellschaft für Dialektologie des Deutschen (IGDD), Marburg.
 - Studentische Tagung Sprachwissenschaft (StuTS), Kiel
-</details>
