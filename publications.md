@@ -41,7 +41,7 @@ Frank, M., **Muhlack, B.**, Zebe, F., and Scharinger, M. (2019). Pitch, Formants
 - Disfluency in Spontaneous Speech Workshop (DiSS), Paris/Online
 - Interspeech, Brno/Online
 - Architectures and Mechanisms for Language Processing (AMLaP), Paris/Online
-- Sprachwissenschaftliche Tagung für Promotionsstudierende (STAPS), Salzburg/Online
+- Sprachwissenschaftliche Tagung für Promotionsstudierende (STaPs), Salzburg/Online
 - Phonetik und Phonologie im deutschsprachigen Raum (P&P), Frankfurt/Online
 
 **You could have met me here:**
@@ -55,7 +55,7 @@ Frank, M., **Muhlack, B.**, Zebe, F., and Scharinger, M. (2019). Pitch, Formants
 - International Seminar on Speech Production (ISSP), Providence/Online
 - Interspeech, Shanghai/Online
 - Workshop on Laughter and Other Vocalisations, Bielefeld/Online
-- Sprachwissenschaftliche Tagung für Promotionsstudierende (STAPS), Wien/Online
+- Sprachwissenschaftliche Tagung für Promotionsstudierende (STaPs), Wien/Online
 - Phonetik und Phonologie im deutschsprachigen Raum (P&P), Trier/Online
 - International Conference on Speech Prosody, Tokyo/Online
 
