@@ -18,8 +18,8 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md", title: "Home", icon: home}
   - {file: "career.md", title: "Career", icon: graduation-cap}
-  - {file: "publications.md", title: "Research", icon: book-user }
-  - {file: "contact.md", title: "Contact", icon: adress-card}
+  - {file: "publications.md", title: "Research", icon: book}
+  - {file: "contact.md", title: "Contact", icon: id-badge}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:muhlack@lst.uni-saarland.de"}
