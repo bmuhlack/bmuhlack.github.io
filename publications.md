@@ -5,8 +5,9 @@ title: "Research"
 
 ### Journal papers
 Frank, M., **Muhlack, B.**, Zebe, F., and Scharinger, M. (2020). Contributions of pitch and spectral information to cortical vowel categorization. Journal of Phonetics (79). [Link](https://www.sciencedirect.com/science/article/abs/pii/S0095447019301020)
-&nbsp  
-&nbsp  
+
+
+
 ### Proceedings papers
 **Muhlack, B.**, Elmers, M., Drenhaus, H., Trouvain, J., Van Os, M., Werner, R., Ryzhova, M., and Möbius, B. (2021). Revisiting recall effects of filler particles in German and English. Interspeech 2021, Brno. Aug 30 - Sept 03. (In Press)
 
@@ -16,6 +17,8 @@ Elmers, M., Werner, R., **Muhlack, B.**, Möbius, B., and Trouvain, J. (2021). E
 
 **Muhlack, B.** (2020). L1 and L2 Production of Non-Lexical Hesitation Particles of German and English Native Speakers. Proceedings of the Workshop for Laughter and Other Non-Verbal Vocalisations 2020, Bielefeld. Oct 05.
 
+
+
 ### Talks
 **Muhlack, B.** (2021). Revisiting recall effects of filler particles in German and English. Phonetics Colloquium Saarbrücken, June 02.
 
@@ -24,6 +27,8 @@ Elmers, M., Werner, R., **Muhlack, B.**, Möbius, B., and Trouvain, J. (2021). E
 **Muhlack, B.** (2019). Workshop: Eine Anleitung zum Lesen von Spektrogrammen. 65. Studentische Tagung für Sprachwissenschaft, Köln.
 
 **Muhlack, B.** (2018). Sprechererkennung bekannter Sprecher anhand geflüsterter Sprache. 63. Studentische Tagung für Sprachwissenschaft, Kiel.
+
+
 
 ### Posters
 **Muhlack, B.** (2020). The vowel quality of non-lexical hesitation particles in German and English L1 and L2 speech. Poster presentation, 16th Phonetik & Phonologie (P&P '20), Trier, September 10-11.
