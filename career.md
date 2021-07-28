@@ -18,7 +18,7 @@ Thesis: "German Accents in English"\\
 Philipps-Universität Marburg (Germany)
 
 2013-16 B.A. Sprache und Kommunikation (Language and Communication)\\
-Thesis: "American SIgn Language and Spoken English - A Contrastive Analysis"\\
+Thesis: "American Sign Language and Spoken English - A Contrastive Analysis"\\
 Philipps-Universität Marburg (Germany)
 
 
