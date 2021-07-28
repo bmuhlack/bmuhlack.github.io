@@ -65,13 +65,15 @@ Frank, M., **Muhlack, B.**, Zebe, F., and Scharinger, M. (2019). Pitch, Formants
 
 ### 2019
 - Kolloquium Forum Sprachvariation der Internationalen Gesellschaft für Dialektologie des Deutschen (IGDD)\\ und 8. Nachwuchskolloquium des Vereins für niederdeutsche Sprachforschung (VndS), Vechta
-- Phonetik und Phonologie im deutschsprachigen Raum (P&P), Düsseldorf.
+- Phonetik und Phonologie im deutschsprachigen Raum (P&P), Düsseldorf
 - Annual Meeting of the Society for the Neurobiology of Language (SNL), Helsinki
 - Studentische Tagung Sprachwissenschaft (StuTS), Köln
 
 <details>
   <summary>2018</summary>
-- Phonetik und Phonologie im deutschsprachigen Raum (P&P), Wien.
-- Kongress der Internationalen Gesellschaft für Dialektologie des Deutschen (IGDD), Marburg.
-- Studentische Tagung Sprachwissenschaft (StuTS), Kiel
+  <ul>
+    <li>Phonetik und Phonologie im deutschsprachigen Raum (P&P), Wien</li>
+<li>Kongress der Internationalen Gesellschaft für Dialektologie des Deutschen (IGDD), Marburg</li>
+<li>Studentische Tagung Sprachwissenschaft (StuTS), Kiel</li>
+  </ul>
   </details>
