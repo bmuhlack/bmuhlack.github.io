@@ -5,7 +5,8 @@ title: "Research"
 
 ### Journal papers
 Frank, M., **Muhlack, B.**, Zebe, F., and Scharinger, M. (2020). Contributions of pitch and spectral information to cortical vowel categorization. Journal of Phonetics (79). [Link](https://www.sciencedirect.com/science/article/abs/pii/S0095447019301020)
-
+&nbsp  
+&nbsp  
 ### Proceedings papers
 **Muhlack, B.**, Elmers, M., Drenhaus, H., Trouvain, J., Van Os, M., Werner, R., Ryzhova, M., and Möbius, B. (2021). Revisiting recall effects of filler particles in German and English. Interspeech 2021, Brno. Aug 30 - Sept 03. (In Press)
 
