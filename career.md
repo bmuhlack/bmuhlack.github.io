@@ -10,7 +10,7 @@ Universität des Saarlandes, Saarbrücken (Germany)
 ### Education
 2017-20 M.A. Speech Science (specialisation: Phonetics)\\
 Thesis: "Nicht-Lexikalische Häsitationspartikeln in Erst- und Zweitsprache am Beispiel vom Deutschen und Englischen"\\
-(Non-lexical hesitationsparticles in first and second language: An example of German and English)
+(Non-lexical hesitationsparticles in first and second language: An example of German and English)\\
 Philipps-Universität Marburg (Germany)
 
 2014-2017 B.A. Anglophone Studies (specialisation: Linguistics)\\
