@@ -69,8 +69,9 @@ Frank, M., **Muhlack, B.**, Zebe, F., and Scharinger, M. (2019). Pitch, Formants
 - Annual Meeting of the Society for the Neurobiology of Language (SNL), Helsinki
 - Studentische Tagung Sprachwissenschaft (StuTS), Köln
 
-
-### 2018
+<details>
+  <summary>2018</summary>
 - Phonetik und Phonologie im deutschsprachigen Raum (P&P), Wien.
 - Kongress der Internationalen Gesellschaft für Dialektologie des Deutschen (IGDD), Marburg.
 - Studentische Tagung Sprachwissenschaft (StuTS), Kiel
+  </details>
