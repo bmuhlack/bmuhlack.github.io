@@ -29,7 +29,9 @@ Elmers, M., Werner, R., **Muhlack, B.**, Möbius, B., and Trouvain, J. (2021). E
 
 Elmers, M., **Muhlack, B.**, Werner, R., Trouvain, J., and Möbius, B. (2020). Pause-internal phonetic particles in speech communication. Poster presentation, 16th Phonetik & Phonologie (P&P '20), Trier, September 10-11. [Poster]
 
-Frank, M., **Muhlack, B.**, Zebe, F., and Scharinger, M. (2019). Pitch, Formants, and Formant Differences are Decisive Factors in Vowel Processing – Electrophysiological Evidence from N1 Amplitude and Latency Analyses. 11. Annual Meeting of the Society for the Neurobiology of Language (SNL), Helsinki, and 15. Phonetik und Phonologie im deutschsprachigen Raum (P&P), Düsseldorf.
+Frank, M., **Muhlack, B.**, Zebe, F., and Scharinger, M. (2019). Pitch, Formants, and Formant Differences are Decisive Factors in Vowel Processing – Electrophysiological Evidence from N1 Amplitude and Latency Analyses. 15. Phonetik und Phonologie im deutschsprachigen Raum (P&P), Düsseldorf.
+
+Frank, M., **Muhlack, B.**, Zebe, F., and Scharinger, M. (2019). Pitch, Formants, and Formant Differences are Decisive Factors in Vowel Processing – Electrophysiological Evidence from N1 Amplitude and Latency Analyses. 11. Annual Meeting of the Society for the Neurobiology of Language (SNL), Helsinki.
 
 **Muhlack, B.** and de Jong-Lendle, G. (2018). Foreign Accents in German: Romanian. 27. Conference of the International Association for Forensic Phonetics and Acoustics (IAFPA), Huddersfield.
 
