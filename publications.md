@@ -13,7 +13,7 @@ Elmers, M., Werner, R., **Muhlack, B.**, Möbius, B., and Trouvain, J. (2021). T
 
 Elmers, M., Werner, R., **Muhlack, B.**, Möbius, B., and Trouvain, J. (2021). Evaluating the effect of pauses on number recollection in synthesized speech. Proc. 32nd Conference Elektronische Sprachsignalverarbeitung (ESSV '21), Berlin, March 3-5, pp. 59-66.
 
-**Muhlack, B.** (2020). L1 and L2 Production of Non-Lexical Hesitation Particles of German and English Native Speakers. Proceedings of the Workshop for Laughter and Other Non-Verbal Vocalisations 2020, Bielefeld. Oct 05 [PDF] [Poster]
+**Muhlack, B.** (2020). L1 and L2 Production of Non-Lexical Hesitation Particles of German and English Native Speakers. Proceedings of the Workshop for Laughter and Other Non-Verbal Vocalisations 2020, Bielefeld. Oct 05.
 
 ### Talks
 **Muhlack, B.** (2021). Revisiting recall effects of filler particles in German and English. Phonetics Colloquium Saarbrücken, June 02.
@@ -25,9 +25,9 @@ Elmers, M., Werner, R., **Muhlack, B.**, Möbius, B., and Trouvain, J. (2021). E
 **Muhlack, B.** (2018). Sprechererkennung bekannter Sprecher anhand geflüsterter Sprache. 63. Studentische Tagung für Sprachwissenschaft, Kiel.
 
 ### Posters
-**Muhlack, B.** (2020). The vowel quality of non-lexical hesitation particles in German and English L1 and L2 speech. Poster presentation, 16th Phonetik & Phonologie (P&P '20), Trier, September 10-11. [Poster]
+**Muhlack, B.** (2020). The vowel quality of non-lexical hesitation particles in German and English L1 and L2 speech. Poster presentation, 16th Phonetik & Phonologie (P&P '20), Trier, September 10-11.
 
-Elmers, M., **Muhlack, B.**, Werner, R., Trouvain, J., and Möbius, B. (2020). Pause-internal phonetic particles in speech communication. Poster presentation, 16th Phonetik & Phonologie (P&P '20), Trier, September 10-11. [Poster]
+Elmers, M., **Muhlack, B.**, Werner, R., Trouvain, J., and Möbius, B. (2020). Pause-internal phonetic particles in speech communication. Poster presentation, 16th Phonetik & Phonologie (P&P '20), Trier, September 10-11.
 
 Frank, M., **Muhlack, B.**, Zebe, F., and Scharinger, M. (2019). Pitch, Formants, and Formant Differences are Decisive Factors in Vowel Processing – Electrophysiological Evidence from N1 Amplitude and Latency Analyses. 15. Phonetik und Phonologie im deutschsprachigen Raum (P&P), Düsseldorf.
 
