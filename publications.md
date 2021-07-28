@@ -38,7 +38,7 @@ Frank, M., **Muhlack, B.**, Zebe, F., and Scharinger, M. (2019). Pitch, Formants
 
 
 ### Conferences
-**You could meet me here:**
+**You can meet me here:**
 - Conference of the International Association for Forensic Phonetics and Acoustics (IAFPA), Marburg/Online
 - Disfluency in Spontaneous Speech Workshop (DiSS), Paris/Online
 - Interspeech, Brno/Online
