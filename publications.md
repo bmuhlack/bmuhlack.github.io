@@ -24,9 +24,9 @@ Elmers, M., Werner, R., **Muhlack, B.**, Möbius, B., and Trouvain, J. (2021). E
 
 **Muhlack, B.** and Frank, M. "Der Wenker hat sone Sätze erstellt." Zur Verteilung von sone und solche vor pluralischen Bezugsnomen. 9. Kolloquium Forum Sprachvariation der Internationalen Gesellschaft für Dialektologie des Deutschen (IGDD) und 8. Nachwuchskolloquium des Vereins für niederdeutsche Sprachforschung (VndS), Vechta.
 
-**Muhlack, B.** (2019). Workshop: Eine Anleitung zum Lesen von Spektrogrammen. 65. Studentische Tagung für Sprachwissenschaft, Köln.
+**Muhlack, B.** (2019). Workshop: Eine Anleitung zum Lesen von Spektrogrammen. 65. Studentische Tagung für Sprachwissenschaft, Köln. Study project.
 
-**Muhlack, B.** (2018). Sprechererkennung bekannter Sprecher anhand geflüsterter Sprache. 63. Studentische Tagung für Sprachwissenschaft, Kiel.
+**Muhlack, B.** (2018). Sprechererkennung bekannter Sprecher anhand geflüsterter Sprache. 63. Studentische Tagung für Sprachwissenschaft, Kiel. Study project.
 
 
 
@@ -37,11 +37,13 @@ Elmers, M., Werner, R., **Muhlack, B.**, Möbius, B., and Trouvain, J. (2021). E
 
 Elmers, M., **Muhlack, B.**, Werner, R., Trouvain, J., and Möbius, B. (2020). Pause-internal phonetic particles in speech communication. Poster presentation, 16th Phonetik & Phonologie (P&P '20), Trier, September 10-11. [Poster](/researchitems/PINTS_Poster_P&P2020.pdf)
 
-Frank, M., **Muhlack, B.**, Zebe, F., and Scharinger, M. (2019). Pitch, Formants, and Formant Differences are Decisive Factors in Vowel Processing – Electrophysiological Evidence from N1 Amplitude and Latency Analyses. 15. Phonetik und Phonologie im deutschsprachigen Raum (P&P), Düsseldorf.
+Frank, M., **Muhlack, B.**, Zebe, F., and Scharinger, M. (2019). Pitch, Formants, and Formant Differences are Decisive Factors in Vowel Processing – Electrophysiological Evidence from N1 Amplitude and Latency Analyses. 15. Phonetik und Phonologie im deutschsprachigen Raum (P&P), Düsseldorf. [Poster](/researchitems/Poster_SNL_P&P.pdf)
 
-Frank, M., **Muhlack, B.**, Zebe, F., and Scharinger, M. (2019). Pitch, Formants, and Formant Differences are Decisive Factors in Vowel Processing – Electrophysiological Evidence from N1 Amplitude and Latency Analyses. 11. Annual Meeting of the Society for the Neurobiology of Language (SNL), Helsinki.
+Frank, M., **Muhlack, B.**, Zebe, F., and Scharinger, M. (2019). Pitch, Formants, and Formant Differences are Decisive Factors in Vowel Processing – Electrophysiological Evidence from N1 Amplitude and Latency Analyses. 11. Annual Meeting of the Society for the Neurobiology of Language (SNL), Helsinki. [Poster](/researchitems/Poster_SNL_P&P.pdf)
 
-**Muhlack, B.** and de Jong-Lendle, G. (2018). Foreign Accents in German: Romanian. 27. Conference of the International Association for Forensic Phonetics and Acoustics (IAFPA), Huddersfield.
+**Muhlack, B.** (2019). "Wo kommt der denn her?" Ermittlung der Herkunft eines unbekannten Sprechers anhand einer dialektalen Sprachaufnahme. Forensic Linguistics Short Course, Cologne. Study project. [Poster](/researchitems/Poster_Koeln.pdf)
+
+**Muhlack, B.** and de Jong-Lendle, G. (2018). Foreign Accents in German: Romanian. 27. Conference of the International Association for Forensic Phonetics and Acoustics (IAFPA), Huddersfield. Study project. [Poster](/researchitems/Poster_IAFPA2018.pdf)
 
 
 
