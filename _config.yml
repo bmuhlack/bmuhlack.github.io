@@ -24,6 +24,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:muhlack@lst.uni-saarland.de"}
   - {title: Researchgate, icon: researchgate, url: "https://www.researchgate.net/profile/Beeke-Muhlack"}
+  - {title: LinkedIn, icon: linkedin, url: "https://de.linkedin.com/in/beeke-muhlack-3a76701a3"}
   - {title: Orcid, icon: orcid, url: "https://orcid.org/0000-0002-0650-0108"}
   - {title: Github, icon: github, url: "https://github.com/bmuhlack"}
 
