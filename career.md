@@ -3,7 +3,7 @@ layout: page
 title: "Academic career"
 ---
 ### Current Position
-Research assistant and PhD student in the Phonetics group\\
+Since May 2020: Research assistant and PhD student in the Phonetics group\\
 Universität des Saarlandes, Saarbrücken (Germany)
 
 
