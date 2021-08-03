@@ -3,7 +3,7 @@ layout: page
 title: "Contact"
 ---
 
-muhlack[at]lst.uni-saarland.de
+muhlack[at]lst[dot]uni-saarland.de
 
 ### Postal Adress
 
