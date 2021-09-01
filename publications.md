@@ -9,9 +9,9 @@ Frank, M., **Muhlack, B.**, Zebe, F., and Scharinger, M. (2020). Contributions o
 
 
 ### Proceedings papers
-**Muhlack, B.**, Elmers, M., Drenhaus, H., Trouvain, J., Van Os, M., Werner, R., Ryzhova, M., and Möbius, B. (2021). Revisiting recall effects of filler particles in German and English. Interspeech 2021, Brno. Aug 30 - Sept 03. [Stimuli for Exp1](https://cloud.hiz-saarland.de/s/N4RZamosiXXiL4s)
+**Muhlack, B.**, Elmers, M., Drenhaus, H., Trouvain, J., Van Os, M., Werner, R., Ryzhova, M., and Möbius, B. (2021). Revisiting recall effects of filler particles in German and English. Interspeech 2021, Brno. Aug 30 - Sept 03. [PDF](/researchitems/Muhlack21_interspeech.pdf) [Stimuli for Exp1](https://cloud.hiz-saarland.de/s/N4RZamosiXXiL4s)
 
-Elmers, M., Werner, R., **Muhlack, B.**, Möbius, B., and Trouvain, J. (2021). Take a breath: Respiratory sounds improve recollection in synthetic speech. Interspeech 2021, Brno. Aug 30 - Sept 03.
+Elmers, M., Werner, R., **Muhlack, B.**, Möbius, B., and Trouvain, J. (2021). Take a breath: Respiratory sounds improve recollection in synthetic speech. Interspeech 2021, Brno. Aug 30 - Sept 03. [PDF](/researchitems/Elmers21_interspeech.pdf)
 
 Elmers, M., Werner, R., **Muhlack, B.**, Möbius, B., and Trouvain, J. (2021). Evaluating the effect of pauses on number recollection in synthesized speech. Proc. 32nd Conference Elektronische Sprachsignalverarbeitung (ESSV '21), Berlin, March 3-5, pp. 59-66. [PDF](/researchitems/Elmers_ESSV2021.pdf)
 
