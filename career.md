@@ -33,6 +33,12 @@ Akademie der Wissenschaft und der Literatur, Mainz (Germany)
 Institut für Germanistische Sprachwissenschaft, Philipps-Universität Marburg (Germany)
 
 
+### Memberships
+since 2020 IAFPA student member
+
+since 2021 ISCA student member
+
+
 ### Research Interests
 
 - hesitation particles
