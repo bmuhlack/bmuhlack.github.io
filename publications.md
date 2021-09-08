@@ -24,7 +24,7 @@ Elmers, M., Werner, R., **Muhlack, B.**, Möbius, B., and Trouvain, J. (2021). E
 
 **Muhlack, B.** (2021). Revisiting recall effects of filler particles in German and English. Phonetics Colloquium Saarbrücken, June 02.
 
-**Muhlack, B.** and Frank, M. "Der Wenker hat sone Sätze erstellt." Zur Verteilung von sone und solche vor pluralischen Bezugsnomen. 9. Kolloquium Forum Sprachvariation der Internationalen Gesellschaft für Dialektologie des Deutschen (IGDD) und 8. Nachwuchskolloquium des Vereins für niederdeutsche Sprachforschung (VndS), Vechta.
+**Muhlack, B.** and Frank, M. (2019) "Der Wenker hat sone Sätze erstellt." Zur Verteilung von sone und solche vor pluralischen Bezugsnomen. 9. Kolloquium Forum Sprachvariation der Internationalen Gesellschaft für Dialektologie des Deutschen (IGDD) und 8. Nachwuchskolloquium des Vereins für niederdeutsche Sprachforschung (VndS), Vechta.
 
 **Muhlack, B.** (2019). Workshop: Eine Anleitung zum Lesen von Spektrogrammen. 65. Studentische Tagung für Sprachwissenschaft, Köln. Study project.
 
