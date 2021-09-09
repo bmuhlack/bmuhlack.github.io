@@ -40,6 +40,8 @@ Institut für Germanistische Sprachwissenschaft, Philipps-Universität Marburg (
 
 ### Research Interests
 
-- hesitation particles
+- hesitation particles and disfluencies
 - forensic phonetics
 - dialectology
+- second language accents
+- language analysis for the determination of origin (LADO)
