@@ -53,7 +53,6 @@ Frank, M., **Muhlack, B.**, Zebe, F., and Scharinger, M. (2019). Pitch, Formants
 
 ### Conferences
 **You can meet me here:**
-- Sprachwissenschaftliche Tagung für Promotionsstudierende (STaPs), Salzburg/Online
 - Phonetik und Phonologie im deutschsprachigen Raum (P&P), Frankfurt/Online
 
 
