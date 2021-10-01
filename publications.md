@@ -55,7 +55,7 @@ Frank, M., **Muhlack, B.**, Zebe, F., and Scharinger, M. (2019). Pitch, Formants
 
 ### Conferences
 **You can meet me here:**
-tba
+- tba
 
 
 **You could have met me here:**
