@@ -20,6 +20,8 @@ Elmers, M., Werner, R., **Muhlack, B.**, Möbius, B., and Trouvain, J. (2021). E
 
 
 ### Talks
+**Muhlack, B.** and Trouvain, J. (2021). Annotationsschema für Häsitationspartikeln im phonetischen Kontext. Phonetik und Phonologie im deutschsprachigen Raum (P&P), Frankfurt/Online. September 29.
+
 **Muhlack, B.** (2021). “Uh/Uhm”: Conflicting Recall Effects of Filler Particles in German and English. Conference for Architectures and Mechanisms for Language Processing (AMLaP) Paris, September 04.
 
 **Muhlack, B.** (2021). Revisiting recall effects of filler particles in German and English. Phonetics Colloquium Saarbrücken, June 02.
@@ -61,6 +63,7 @@ Frank, M., **Muhlack, B.**, Zebe, F., and Scharinger, M. (2019). Pitch, Formants
 <details>
   <summary>2021</summary>
   <ul>
+    <li>Phonetik und Phonologie im deutschsprachigen Raum (P&P), Frankfurt/Online</li>    
 <li>Architectures and Mechanisms for Language Processing (AMLaP), Paris/Online</li>
 <li>Interspeech, Brno/Online</li>
 <li>Disfluency in Spontaneous Speech Workshop (DiSS), Paris/Online</li>
