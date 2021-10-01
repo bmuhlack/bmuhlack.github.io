@@ -55,7 +55,7 @@ Frank, M., **Muhlack, B.**, Zebe, F., and Scharinger, M. (2019). Pitch, Formants
 
 ### Conferences
 **You can meet me here:**
-- Phonetik und Phonologie im deutschsprachigen Raum (P&P), Frankfurt/Online
+tba
 
 
 **You could have met me here:**
