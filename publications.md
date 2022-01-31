@@ -55,7 +55,9 @@ Frank, M., **Muhlack, B.**, Zebe, F., and Scharinger, M. (2019). Pitch, Formants
 
 ### Conferences
 **You can meet me here:**
-- tba
+- Konferenz Elektronische Sprachsignalverarbeitung (ESSV), Sønderborg/Online
+- Conference of the International Association for Forensic Phonetics and Acoustics (IAFPA), Prague
+- Phonetik und Phonologie im deutschsprachigen Raum (P&P), Bielefeld
 
 
 **You could have met me here:**
@@ -63,7 +65,7 @@ Frank, M., **Muhlack, B.**, Zebe, F., and Scharinger, M. (2019). Pitch, Formants
 <details>
   <summary>2021</summary>
   <ul>
-    <li>Phonetik und Phonologie im deutschsprachigen Raum (P&P), Frankfurt/Online</li>    
+<li>Phonetik und Phonologie im deutschsprachigen Raum (P&P), Frankfurt/Online</li>    
 <li>Architectures and Mechanisms for Language Processing (AMLaP), Paris/Online</li>
 <li>Interspeech, Brno/Online</li>
 <li>Disfluency in Spontaneous Speech Workshop (DiSS), Paris/Online</li>
