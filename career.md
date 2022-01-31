@@ -36,7 +36,7 @@ Institut für Germanistische Sprachwissenschaft, Philipps-Universität Marburg (
 
 
 ### Memberships
-- since 2020 IAFPA student member, student representative team
+- since 2020 IAFPA student member, student representative team (since 2022)
 - since 2021 ISCA student member
 
 
