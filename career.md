@@ -6,7 +6,7 @@ title: "Academic career"
 Since May 2020: Research assistant and PhD student in the Phonetics group\\
 Universität des Saarlandes, Saarbrücken (Germany)
 
-Since January 2022: Part of the Student Representative Team of the International Association of Forensic Phonetics and Acoustics (<a href = "https://www.iafpa.net/" target = "_blank">IAFPA</a>)
+Since January 2022: Member of the <a href = "https://www.iafpa.net/about/student-reps/" target = "_blank">Student Committee</a> of the International Association of Forensic Phonetics and Acoustics (<a href = "https://www.iafpa.net/" target = "_blank">IAFPA</a>)
 
 
 ### Education
