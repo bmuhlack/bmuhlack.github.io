@@ -25,10 +25,10 @@ Philipps-Universität Marburg (Germany)
 
 
 ### Student assistant positions
-Dec 2018 - March 2020 Phonetics group lead by Prof. Dr. Mathias Scharinger\\
+Dec 2018 - March 2020 Phonetics group led by Prof. Dr. Mathias Scharinger\\
 Institut für Germanistische Sprachwissenschaft, Philipps-Universität Marburg (Germany)
 
-Jan 2018 - March 2019 Regionalsprache.de (REDE) lead by Prof. Dr. Roland Kehrein\\
+Jan 2018 - March 2019 Regionalsprache.de (REDE) led by Prof. Dr. Roland Kehrein\\
 Akademie der Wissenschaft und der Literatur, Mainz (Germany)
 
 2016 Tutorial for the lecture Linguistics (Prof. Dr. Michael Cysouw)\\
