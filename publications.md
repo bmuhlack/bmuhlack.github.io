@@ -59,6 +59,7 @@ Frank, M., **Muhlack, B.**, Zebe, F., and Scharinger, M. (2019). Pitch, Formants
 
 ### Conferences
 **You can meet me here:**
+- (summery) Winter school 2022: Coping with the complexity in speech production and perception, Chorin
 - Conference of the International Association for Forensic Phonetics and Acoustics (IAFPA), Prague
 - Phonetik und Phonologie im deutschsprachigen Raum (P&P), Bielefeld
 
