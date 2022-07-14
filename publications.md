@@ -40,7 +40,7 @@ Elmers, M., Werner, R., **Muhlack, B.**, Möbius, B., and Trouvain, J. (2021). E
 
 ### Posters
 
-**Muhlack, B.**, Trouvain, J., Jessen, M. (2022). Acoustic characteristics of filler particles in German. 30. Conference of the International Association for Forensic Phonetics and Acoustics (IAFPA), Prague. [Poster](/researchitems/Muhlack,Trouvain,Jessen_IAFPA2022.pdf)
+**Muhlack, B.**, Trouvain, J., Jessen, M. (2022). Acoustic characteristics of filler particles in German. 30. Conference of the International Association for Forensic Phonetics and Acoustics (IAFPA), Prague. [Poster](/researchitems/Muhlack,Trouvain,Jessen_IAFPA22.pdf)
 
 **Muhlack, B.** (2022). Do filler particles facilitate the recall of lists? Winter School 2022: Coping with the complexity in speech production and perception, Chorin. July 04 - 09. [Poster](/researchitems/Muhlack_Chorin.pdf)
 
