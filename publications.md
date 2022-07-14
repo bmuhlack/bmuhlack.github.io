@@ -39,6 +39,11 @@ Elmers, M., Werner, R., **Muhlack, B.**, Möbius, B., and Trouvain, J. (2021). E
 
 
 ### Posters
+
+**Muhlack, B.**, Trouvain, J., Jessen, M. (2022). Acoustic characteristics of filler particles in German. 30. Conference of the International Association for Forensic Phonetics and Acoustics (IAFPA), Prague. [Poster](/researchitems/Muhlack, Trouvain, Jessen_IAFPA2022.pdf)
+
+**Muhlack, B.** (2022). Do filler particles facilitate the recall of lists? Winter School 2022: Coping with the complexity in speech production and perception, Chorin. July 04 - 09. [Poster](/researchitems/Muhlack_Chorin.pdf)
+
 **Muhlack, B.**, Elmers, M., Drenhaus, H., Trouvain, J., Van Os, M., Werner, R., Ryzhova, M., and Möbius, B. (2021). Revisiting recall effects of filler particles in German and English. Interspeech 2021, Brno. Aug 30 - Sept 03. [Poster](/researchitems/Muhlack_Poster_Interspeech.pdf)
 
 **Muhlack, B.** (2020). L1 and L2 Production of Non-Lexical Hesitation Particles of German and English Native Speakers. Workshop for Laughter and Other Non-Verbal Vocalisations 2020, Bielefeld. Oct 05. [Poster](/researchitems/Poster_LW2020.pdf/)
@@ -59,8 +64,7 @@ Frank, M., **Muhlack, B.**, Zebe, F., and Scharinger, M. (2019). Pitch, Formants
 
 ### Conferences
 **You can meet me here:**
-- (summery) Winter school 2022: Coping with the complexity in speech production and perception, Chorin
-- Conference of the International Association for Forensic Phonetics and Acoustics (IAFPA), Prague
+- Summer School on Statistical Methods for Linguistics and Psychology (SMLP), Potsdam
 - Phonetik und Phonologie im deutschsprachigen Raum (P&P), Bielefeld
 
 
@@ -69,7 +73,9 @@ Frank, M., **Muhlack, B.**, Zebe, F., and Scharinger, M. (2019). Pitch, Formants
 <details>
   <summary>2022</summary>
   <ul>
-<li>Konferenz Elektronische Sprachsignalverarbeitung (ESSV), Sønderborg/Online</li>
+    <li>Konferenz Elektronische Sprachsignalverarbeitung (ESSV), Sønderborg/Online</li>
+    <li>(summery) Winter school 2022: Coping with the complexity in speech production and perception, Chorin</li>
+    <li>Conference of the International Association for Forensic Phonetics and Acoustics (IAFPA), Prague</li>
   </ul>
   </details>
 
