@@ -66,8 +66,7 @@ Frank, M., **Muhlack, B.**, Zebe, F., and Scharinger, M. (2019). Pitch, Formants
 
 ### Conferences
 **You can meet me here:**
-- Summer School on Statistical Methods for Linguistics and Psychology (SMLP), Potsdam
-- Phonetik und Phonologie im deutschsprachigen Raum (P&P), Bielefeld
+- tbd
 
 
 **You could have met me here:**
@@ -78,6 +77,8 @@ Frank, M., **Muhlack, B.**, Zebe, F., and Scharinger, M. (2019). Pitch, Formants
     <li>Konferenz Elektronische Sprachsignalverarbeitung (ESSV), Sønderborg/Online</li>
     <li>(summery) Winter school 2022: Coping with the complexity in speech production and perception, Chorin</li>
     <li>Conference of the International Association for Forensic Phonetics and Acoustics (IAFPA), Prague</li>
+    <li>Summer School on Statistical Methods for Linguistics and Psychology (SMLP), Potsdam</li>
+    <li>Phonetik und Phonologie im deutschsprachigen Raum (P&P), Bielefeld</li>
   </ul>
   </details>
 
