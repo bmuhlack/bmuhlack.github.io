@@ -40,7 +40,7 @@ Elmers, M., Werner, R., **Muhlack, B.**, Möbius, B., and Trouvain, J. (2021). E
 
 ### Posters
 
-**Muhlack, B.**, Trouvain, J., Jessen, M. (2022). Acoustic characteristics of filler particles in German (2.0). 18th Phonetik & Phonologie (P&P '22), Bielefeld, October 06-07. [Poster](/researchitems/Muhlack,Trouvain,Jessen_PundP22.pdf)
+**Muhlack, B.**, Trouvain, J., Jessen, M. (2022). Acoustic characteristics of filler particles in German (2.0). 18th Phonetik & Phonologie (P&P '22), Bielefeld, October 06-07. [Poster](/researchitems/Muhlack, Trouvain, Jessen_PundP22.pdf)
 
 **Muhlack, B.**, Trouvain, J., Jessen, M. (2022). Acoustic characteristics of filler particles in German. 30. Conference of the International Association for Forensic Phonetics and Acoustics (IAFPA), Prague. [Poster](/researchitems/Muhlack,Trouvain,Jessen_IAFPA22.pdf)
 
