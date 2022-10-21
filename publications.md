@@ -44,6 +44,8 @@ Elmers, M., Werner, R., **Muhlack, B.**, Möbius, B., and Trouvain, J. (2021). E
 
 **Muhlack, B.**, Trouvain, J., Jessen, M. (2022). Acoustic characteristics of filler particles in German. 30. Conference of the International Association for Forensic Phonetics and Acoustics (IAFPA), Prague. [Poster](/researchitems/Muhlack,Trouvain,Jessen_IAFPA22.pdf)
 
+Pheiff, J., Frank, M., **Muhlack, B.** (2022). Über _sone_. Eine Korpusauswertung zur Verwendung von _sone_ + Pluralnomen im Deutschen. 7. Kongress der Internationalen Gesellschaft für Dialektologie des Deutschen, Salzburg. July 06-08.
+
 **Muhlack, B.** (2022). Do filler particles facilitate the recall of lists? Winter School 2022: Coping with the complexity in speech production and perception, Chorin. July 04 - 09. [Poster](/researchitems/Muhlack_Chorin.pdf)
 
 **Muhlack, B.**, Elmers, M., Drenhaus, H., Trouvain, J., Van Os, M., Werner, R., Ryzhova, M., and Möbius, B. (2021). Revisiting recall effects of filler particles in German and English. Interspeech 2021, Brno. Aug 30 - Sept 03. [Poster](/researchitems/Muhlack_Poster_Interspeech.pdf)
