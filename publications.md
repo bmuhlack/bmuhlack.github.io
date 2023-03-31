@@ -4,6 +4,8 @@ title: "Research"
 ---
 
 ### Journal papers
+**Muhlack, B.**, Trouvain, J., Jessen, M. (2023). Distributional and Acoustic Characteristics of Filler Particles in German with Consideration of Forensic-Phonetic Aspects. Languages 8(2), 100. [Link](https://www.mdpi.com/journal/languages/special_issues/Pauses_in_Speech)
+
 Frank, M., **Muhlack, B.**, Zebe, F., and Scharinger, M. (2020). Contributions of pitch and spectral information to cortical vowel categorization. Journal of Phonetics (79). [Link](https://www.sciencedirect.com/science/article/abs/pii/S0095447019301020)
 
 
