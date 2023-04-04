@@ -19,7 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md", title: "Home", icon: home}
   - {file: "career.md", title: "Career", icon: graduation-cap}
   - {file: "publications.md", title: "Research", icon: book}
-  - {file: "teaching.md", title: "Research", icon: book}
+  - {file: "teaching.md", title: "Teaching", icon: openbook}
   - {file: "contact.md", title: "Contact", icon: id-badge}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
