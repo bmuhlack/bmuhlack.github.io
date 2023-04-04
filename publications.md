@@ -23,6 +23,10 @@ Elmers, M., Werner, R., **Muhlack, B.**, Möbius, B., and Trouvain, J. (2021). E
 
 
 ### Talks
+**Muhlack, B.** (2023). Filler particles in English and Spanish L1 and L2 Speech. PhD Day of SFB 1102, February 09.
+
+**Muhlack, B.** (2023). Filler particles in English and Spanish L1 and L2 Speech. Phonetics Colloquium Saarbrücken, January 11.
+
 **Muhlack, B.** (2022). Acoustic characteristics of filler particles in German – preliminary results. Phonetics Colloquium Saarbrücken, May 04.
 
 **Muhlack, B.** and Trouvain, J. (2021). Annotationsschema für Häsitationspartikeln im phonetischen Kontext. Phonetik und Phonologie im deutschsprachigen Raum (P&P), Frankfurt/Online. September 29.
