@@ -41,35 +41,36 @@ Elmers, M., Werner, R., **Muhlack, B.**, Möbius, B., and Trouvain, J. (2021). E
 
 ### Posters
 
-**Muhlack, B.**, Trouvain, J., Jessen, M. (2022). Acoustic characteristics of filler particles in German (2.0). 18th Phonetik & Phonologie (P&P '22), Bielefeld, October 06-07. [Poster](/researchitems/Muhlack, Trouvain, Jessen_PundP22.pdf)
+**Muhlack, B.**, Trouvain, J., Jessen, M. (2022). Acoustic characteristics of filler particles in German (2.0). 18th Phonetik & Phonologie (P&P '22), Bielefeld, October 06-07. <a href = "/researchitems/Muhlack, Trouvain, Jessen_PundP22.pdf" target = "_blank">Poster</a>
 
-**Muhlack, B.**, Trouvain, J., Jessen, M. (2022). Acoustic characteristics of filler particles in German. 30. Conference of the International Association for Forensic Phonetics and Acoustics (IAFPA), Prague. [Poster](/researchitems/Muhlack,Trouvain,Jessen_IAFPA22.pdf)
+**Muhlack, B.**, Trouvain, J., Jessen, M. (2022). Acoustic characteristics of filler particles in German. 30. Conference of the International Association for Forensic Phonetics and Acoustics (IAFPA), Prague. <a href = "/researchitems/Muhlack,Trouvain,Jessen_IAFPA22.pdf" target = "_blank">Poster</a>
 
-Pheiff, J., Frank, M., **Muhlack, B.** (2022). _Sone_ mit Pluralnomen in den Regionalsprachen des Deutschen. Formen & Funktionen, Variation & Wandel. 7. Kongress der Internationalen Gesellschaft für Dialektologie des Deutschen (IGDD), Salzburg. July 06-08. [Poster](/researchitems/Pheiff_Frank_Muhlack_Sone.pdf)
+Pheiff, J., Frank, M., **Muhlack, B.** (2022). _Sone_ mit Pluralnomen in den Regionalsprachen des Deutschen. Formen & Funktionen, Variation & Wandel. 7. Kongress der Internationalen Gesellschaft für Dialektologie des Deutschen (IGDD), Salzburg. July 06-08. <a href = "/researchitems/Pheiff_Frank_Muhlack_Sone.pdf" target = "_blank">Poster</a>
 
-**Muhlack, B.** (2022). Do filler particles facilitate the recall of lists? Winter School 2022: Coping with the complexity in speech production and perception, Chorin. July 04 - 09. [Poster](/researchitems/Muhlack_Chorin.pdf)
+**Muhlack, B.** (2022). Do filler particles facilitate the recall of lists? Winter School 2022: Coping with the complexity in speech production and perception, Chorin. July 04 - 09. <a href = "/researchitems/Muhlack_Chorin.pdf" target = "_blank">Poster</a>
 
-**Muhlack, B.**, Elmers, M., Drenhaus, H., Trouvain, J., Van Os, M., Werner, R., Ryzhova, M., and Möbius, B. (2021). Revisiting recall effects of filler particles in German and English. Interspeech 2021, Brno. Aug 30 - Sept 03. [Poster](/researchitems/Muhlack_Poster_Interspeech.pdf)
+**Muhlack, B.**, Elmers, M., Drenhaus, H., Trouvain, J., Van Os, M., Werner, R., Ryzhova, M., and Möbius, B. (2021). Revisiting recall effects of filler particles in German and English. Interspeech 2021, Brno. Aug 30 - Sept 03. <a href = "/researchitems/Muhlack_Poster_Interspeech.pdf" target = "_blank">Poster</a>
 
-**Muhlack, B.** (2020). L1 and L2 Production of Non-Lexical Hesitation Particles of German and English Native Speakers. Workshop for Laughter and Other Non-Verbal Vocalisations 2020, Bielefeld. Oct 05. [Poster](/researchitems/Poster_LW2020.pdf/)
+**Muhlack, B.** (2020). L1 and L2 Production of Non-Lexical Hesitation Particles of German and English Native Speakers. Workshop for Laughter and Other Non-Verbal Vocalisations 2020, Bielefeld. Oct 05. <a href = "/researchitems/Poster_LW2020.pdf" target = "_blank">Poster</a>
 
-**Muhlack, B.** (2020). The vowel quality of non-lexical hesitation particles in German and English L1 and L2 speech. Poster presentation, 16th Phonetik & Phonologie (P&P '20), Trier, September 10-11. [Poster](/researchitems/Muhlack_P&P2020_Poster.pdf)
+**Muhlack, B.** (2020). The vowel quality of non-lexical hesitation particles in German and English L1 and L2 speech. Poster presentation, 16th Phonetik & Phonologie (P&P '20), Trier, September 10-11. <a href = "/researchitems/Muhlack_P&P2020_Poster.pdf" target = "_blank">Poster</a>
 
-Elmers, M., **Muhlack, B.**, Werner, R., Trouvain, J., and Möbius, B. (2020). Pause-internal phonetic particles in speech communication. Poster presentation, 16th Phonetik & Phonologie (P&P '20), Trier, September 10-11. [Poster](/researchitems/PINTS_Poster_P&P2020.pdf)
+Elmers, M., **Muhlack, B.**, Werner, R., Trouvain, J., and Möbius, B. (2020). Pause-internal phonetic particles in speech communication. Poster presentation, 16th Phonetik & Phonologie (P&P '20), Trier, September 10-11. <a href = "/researchitems/PINTS_Poster_P&P2020.pdf" target = "_blank">Poster</a>
 
-Frank, M., **Muhlack, B.**, Zebe, F., and Scharinger, M. (2019). Pitch, Formants, and Formant Differences are Decisive Factors in Vowel Processing – Electrophysiological Evidence from N1 Amplitude and Latency Analyses. 15. Phonetik und Phonologie im deutschsprachigen Raum (P&P), Düsseldorf. [Poster](/researchitems/Poster_SNL_P&P.pdf)
+Frank, M., **Muhlack, B.**, Zebe, F., and Scharinger, M. (2019). Pitch, Formants, and Formant Differences are Decisive Factors in Vowel Processing – Electrophysiological Evidence from N1 Amplitude and Latency Analyses. 15. Phonetik und Phonologie im deutschsprachigen Raum (P&P), Düsseldorf. <a href = "/researchitems/Poster_SNL_P&P.pdf" target = "_blank">Poster</a>
 
-Frank, M., **Muhlack, B.**, Zebe, F., and Scharinger, M. (2019). Pitch, Formants, and Formant Differences are Decisive Factors in Vowel Processing – Electrophysiological Evidence from N1 Amplitude and Latency Analyses. 11. Annual Meeting of the Society for the Neurobiology of Language (SNL), Helsinki. [Poster](/researchitems/Poster_SNL_P&P.pdf)
+Frank, M., **Muhlack, B.**, Zebe, F., and Scharinger, M. (2019). Pitch, Formants, and Formant Differences are Decisive Factors in Vowel Processing – Electrophysiological Evidence from N1 Amplitude and Latency Analyses. 11. Annual Meeting of the Society for the Neurobiology of Language (SNL), Helsinki. <a href = "/researchitems/Poster_SNL_P&P.pdf" target = "_blank">Poster</a>
 
-**Muhlack, B.** (2019). "Wo kommt der denn her?" Ermittlung der Herkunft eines unbekannten Sprechers anhand einer dialektalen Sprachaufnahme. Forensic Linguistics Short Course, Cologne. Study project. [Poster](/researchitems/Poster_Koeln.pdf)
+**Muhlack, B.** (2019). "Wo kommt der denn her?" Ermittlung der Herkunft eines unbekannten Sprechers anhand einer dialektalen Sprachaufnahme. Forensic Linguistics Short Course, Cologne. Study project. <a href = "/researchitems/Poster_Koeln.pdf" target = "_blank">Poster</a>
 
-**Muhlack, B.** and de Jong-Lendle, G. (2018). Foreign Accents in German: Romanian. 27. Conference of the International Association for Forensic Phonetics and Acoustics (IAFPA), Huddersfield. Study project. [Poster](/researchitems/Poster_IAFPA2018.pdf)
+**Muhlack, B.** and de Jong-Lendle, G. (2018). Foreign Accents in German: Romanian. 27. Conference of the International Association for Forensic Phonetics and Acoustics (IAFPA), Huddersfield. Study project. <a href = "/researchitems/Poster_IAFPA2018.pdf" target = "_blank">Poster</a>
 
 
 
 ### Conferences
 **You can meet me here:**
-- tbd
+- IAFPA, Zurich
+- ICPhS, Prague
 
 
 **You could have met me here:**
