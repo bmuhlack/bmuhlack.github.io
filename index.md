@@ -7,6 +7,6 @@ title: "Welcome to my website!"
 
 I am a research assistant and a PhD student in the Phonetics and Phonology group (head: Prof. Dr. Bernd Möbius) in the Language Science and Technology department at Saarland University in Saarbrücken, Germany.
 
-I started working in the [PINTS project](http://pauseparticles.org/) in May 2020. Together with two PIs (Prof. Dr. Bernd Möbius and Dr. Jürgen Trouvain) and two other PhD-students (Raphael Werner and Mikey Elmers) I am looking at pause-internal phonetic particles in spoken language. My research project focuses on hesitation particles in German as well as other languages.
+I started working in the <a href = "http://pauseparticles.org/" target = "_blank">PINTS project</a> in May 2020. Together with two PIs (Prof. Dr. Bernd Möbius and Dr. Jürgen Trouvain) and two other PhD-students (Raphael Werner and Mikey Elmers) I am looking at pause-internal phonetic particles in spoken language. My research project focuses on hesitation particles in German as well as other languages.
 
 
