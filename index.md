@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Beeke Muhlack"
+title: "Welcome to my website!"
 ---
 
 <img src="assets/me2.jpg" align="right" width="200" style="margin: 0px 20px 15px 10px;" />
