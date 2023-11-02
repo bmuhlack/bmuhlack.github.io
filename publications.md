@@ -78,7 +78,8 @@ Frank, M., **Muhlack, B.**, Zebe, F., and Scharinger, M. (2019). Pitch, Formants
 
 ### Conferences
 **You can meet me here:**
-- tbd
+- IAFPA 2024, Montreal
+- Phonetik und Phonologie im deutschsprachigen Raum (P&P), Halle
 
 
 **You could have met me here:**
