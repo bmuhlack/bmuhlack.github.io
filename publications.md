@@ -78,7 +78,7 @@ Frank, M., **Muhlack, B.**, Zebe, F., and Scharinger, M. (2019). Pitch, Formants
 
 ### Conferences
 **You can meet me here:**
-- ICPhS, Prague
+- tbd
 
 
 **You could have met me here:**
@@ -86,8 +86,8 @@ Frank, M., **Muhlack, B.**, Zebe, F., and Scharinger, M. (2019). Pitch, Formants
 <details>
   <summary>2023</summary>
   <ul>
-    <li>Conference of the International Association for Forensic Phonetics and Acoustics (IAFPA), Prague</li>
-    <!--<li>Phonetik und Phonologie im deutschsprachigen Raum (P&P), Bern</li>-->
+    <li>Conference of the International Association for Forensic Phonetics and Acoustics (IAFPA), Zurich</li>
+    <li>International Congress of Phonetic Sciences (ICPhS), Prague</li>
   </ul>
   </details>
 
