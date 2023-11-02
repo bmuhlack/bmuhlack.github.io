@@ -8,6 +8,7 @@ title: "Teaching"
 Winter Semester 2023/24:
 - Seminar and accompanying exercise: "Perception" (Speech perception and experimental methods)
 - Seminar and accompanying exercise: "Quantitative Methods" (Statistics and intro to R)
+- Seminar: "Experimental phonetic verification of phonological hypotheses" (literature reading)
 
 
 ### Saarland University
