@@ -4,9 +4,9 @@ title: "Research"
 ---
 
 ### Journal papers
-Pheiff, J., Frank, M., **Muhlack, B.** (2023). Das sind sone Sachen: Son- mit Pluralnomen in den Regionalsprachen des Deutschen. Formen & Funktionen, Variation & Wandel. Niederdeutsches Wort 63, 63–87.
+Pheiff, J., Frank, M., and **Muhlack, B.** (2023). Das sind sone Sachen: Son- mit Pluralnomen in den Regionalsprachen des Deutschen. Formen & Funktionen, Variation & Wandel. Niederdeutsches Wort 63, 63–87.
 
-**Muhlack, B.**, Trouvain, J., Jessen, M. (2023). Distributional and Acoustic Characteristics of Filler Particles in German with Consideration of Forensic-Phonetic Aspects. Languages 8(2), 100. <a href = "https://doi.org/10.3390/languages8020100" target = "_blank">https://doi.org/10.3390/languages8020100</a>
+**Muhlack, B.**, Trouvain, J., and Jessen, M. (2023). Distributional and Acoustic Characteristics of Filler Particles in German with Consideration of Forensic-Phonetic Aspects. Languages 8(2), 100. <a href = "https://doi.org/10.3390/languages8020100" target = "_blank">https://doi.org/10.3390/languages8020100</a>
 
 Frank, M., **Muhlack, B.**, Zebe, F., and Scharinger, M. (2020). Contributions of pitch and spectral information to cortical vowel categorization. Journal of Phonetics (79). <a href = "https://doi.org/10.1016/j.wocn.2020.100963" target = "_blank">https://doi.org/10.1016/j.wocn.2020.100963</a>
 
@@ -14,7 +14,7 @@ Frank, M., **Muhlack, B.**, Zebe, F., and Scharinger, M. (2020). Contributions o
 ### Proceedings papers
 **Muhlack, B.** (2023). Filler particles in English and Spanish L1 and L2 speech. Proc. 20th International Congress of Phonetic Sciences (ICPhS '23), Prague, August 7-11. <a href = "/researchitems/P398_ICPhS2023.pdf" target = "_blank">PDF</a>
 
-Werner, R., Trouvain, J., **Muhlack, B.**, Möbius, B. (2022). Perceptual Categorization of Breath Noises in Speech Pauses. Proc. 33rd Conference Elektronische Sprachsignalverarbeitung (ESSV '22), Sønderborg, March 2-4, pp. 139-146. <a href = "/researchitems/Werner_ESSV2022.pdf" target = "_blank">PDF</a> 
+Werner, R., Trouvain, J., **Muhlack, B.**, and Möbius, B. (2022). Perceptual Categorization of Breath Noises in Speech Pauses. Proc. 33rd Conference Elektronische Sprachsignalverarbeitung (ESSV '22), Sønderborg, March 2-4, pp. 139-146. <a href = "/researchitems/Werner_ESSV2022.pdf" target = "_blank">PDF</a> 
 
 **Muhlack, B.**, Elmers, M., Drenhaus, H., Trouvain, J., Van Os, M., Werner, R., Ryzhova, M., and Möbius, B. (2021). Revisiting recall effects of filler particles in German and English. Interspeech 2021, Brno. Aug 30 - Sept 03. <a href = "/researchitems/Muhlack21_interspeech.pdf" target = "_blank">PDF</a> <a href = "https://cloud.hiz-saarland.de/s/N4RZamosiXXiL4s" target = "_blank">Stimuli for Exp1</a>
 
@@ -54,11 +54,11 @@ Elmers, M., Werner, R., **Muhlack, B.**, Möbius, B., and Trouvain, J. (2021). E
 
 **Muhlack, B.** and Ibrahim, O. (2023). Filler particles and pausing behaviour in Egyptian Arabic. 31. Conference of the International Association for Forensic Phonetics and Acoustics (IAFPA), Zurich. <a href = "/researchitems/Muhlack_IAFPA23.pdf" target = "_blank">Poster</a>
 
-**Muhlack, B.**, Trouvain, J., Jessen, M. (2022). Acoustic characteristics of filler particles in German (2.0). 18th Phonetik & Phonologie (P&P '22), Bielefeld, October 06-07. <a href = "/researchitems/Muhlack, Trouvain, Jessen_PundP22.pdf" target = "_blank">Poster</a>
+**Muhlack, B.**, Trouvain, J., and Jessen, M. (2022). Acoustic characteristics of filler particles in German (2.0). 18th Phonetik & Phonologie (P&P '22), Bielefeld, October 06-07. <a href = "/researchitems/Muhlack, Trouvain, Jessen_PundP22.pdf" target = "_blank">Poster</a>
 
-**Muhlack, B.**, Trouvain, J., Jessen, M. (2022). Acoustic characteristics of filler particles in German. 30. Conference of the International Association for Forensic Phonetics and Acoustics (IAFPA), Prague. <a href = "/researchitems/Muhlack,Trouvain,Jessen_IAFPA22.pdf" target = "_blank">Poster</a>
+**Muhlack, B.**, Trouvain, J., and Jessen, M. (2022). Acoustic characteristics of filler particles in German. 30. Conference of the International Association for Forensic Phonetics and Acoustics (IAFPA), Prague. <a href = "/researchitems/Muhlack,Trouvain,Jessen_IAFPA22.pdf" target = "_blank">Poster</a>
 
-Pheiff, J., Frank, M., **Muhlack, B.** (2022). _Sone_ mit Pluralnomen in den Regionalsprachen des Deutschen. Formen & Funktionen, Variation & Wandel. 7. Kongress der Internationalen Gesellschaft für Dialektologie des Deutschen (IGDD), Salzburg. July 06-08. <a href = "/researchitems/Pheiff_Frank_Muhlack_Sone.pdf" target = "_blank">Poster</a>
+Pheiff, J., Frank, M., and **Muhlack, B.** (2022). _Sone_ mit Pluralnomen in den Regionalsprachen des Deutschen. Formen & Funktionen, Variation & Wandel. 7. Kongress der Internationalen Gesellschaft für Dialektologie des Deutschen (IGDD), Salzburg. July 06-08. <a href = "/researchitems/Pheiff_Frank_Muhlack_Sone.pdf" target = "_blank">Poster</a>
 
 **Muhlack, B.** (2022). Do filler particles facilitate the recall of lists? Winter School 2022: Coping with the complexity in speech production and perception, Chorin. July 04 - 09. <a href = "/researchitems/Muhlack_Chorin.pdf" target = "_blank">Poster</a>
 
