@@ -5,6 +5,11 @@ title: "Teaching"
 
 ### Frankfurt University
 
+Summer Semester 2024:
+- Seminar: "Anatomy of Speech"
+- Exercise: "Praat Scripting"
+- Seminar and accompanying exercise: "Methods of language description and documentation"
+
 Winter Semester 2023/24:
 - Seminar and accompanying exercise: "Perception" (Speech perception and experimental methods)
 - Seminar and accompanying exercise: "Quantitative Methods" (Statistics and intro to R)
