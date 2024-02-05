@@ -4,6 +4,8 @@ title: "Research"
 ---
 
 ### Journal papers
+Pheiff, J., Frank, M., **Muhlack, B.** (2023). Das sind sone Sachen: Son- mit Pluralnomen in den Regionalsprachen des Deutschen. Formen & Funktionen, Variation & Wandel. Niederdeutsches Wort 63, 63–87.
+
 **Muhlack, B.**, Trouvain, J., Jessen, M. (2023). Distributional and Acoustic Characteristics of Filler Particles in German with Consideration of Forensic-Phonetic Aspects. Languages 8(2), 100. <a href = "https://doi.org/10.3390/languages8020100" target = "_blank">https://doi.org/10.3390/languages8020100</a>
 
 Frank, M., **Muhlack, B.**, Zebe, F., and Scharinger, M. (2020). Contributions of pitch and spectral information to cortical vowel categorization. Journal of Phonetics (79). <a href = "https://doi.org/10.1016/j.wocn.2020.100963" target = "_blank">https://doi.org/10.1016/j.wocn.2020.100963</a>
@@ -25,6 +27,8 @@ Elmers, M., Werner, R., **Muhlack, B.**, Möbius, B., and Trouvain, J. (2021). E
 
 
 ### Talks
+**Muhlack, B.** (2024). Filler particles in Bulgarian Judeo-Spanish. Phonetics Colloquium Saarbrücken, Febuary 01.
+
 **Muhlack, B.** (2023). Filler particles in English and Spanish L1 and L2 Speech. PhD Day of SFB 1102, February 09.
 
 **Muhlack, B.** (2023). Filler particles in English and Spanish L1 and L2 Speech. Phonetics Colloquium Saarbrücken, January 11.
