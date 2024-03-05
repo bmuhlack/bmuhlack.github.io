@@ -3,11 +3,11 @@ layout: page
 title: "Contact"
 ---
 
-muhlack[at]lst[dot]uni-saarland.de
+b.muhlack[at]em[dot]uni-frankfurt.de
 
 ### Postal Adress
 
-Saarland University\\
-Language Science and Technology\\
-Campus C7.2, Room 5.08\\
-D-66123 Saarbrücken
+Goethe-Universität Frankfurt\\
+Institut für Empirische Sprachwissenschaften\\
+Campus Westend, SKW Room 04 B.128\\
+D-60323 Frankfurt am Main
