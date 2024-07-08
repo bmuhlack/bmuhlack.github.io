@@ -3,7 +3,7 @@ layout: page
 title: "Academic career"
 ---
 ### Current Position
-Since October 2023: instructor (Lehrkraft für besondere Aufgaben) at the institute for Empirircal Linguistics\\
+Since October 2023: instructor (Lehrkraft für besondere Aufgaben) at the Institute for Empirical Linguistics\\
 Goethe-Universität Frankfurt (Germany)
 
 Since May 2020: Research assistant and PhD student in the Phonetics group\\
