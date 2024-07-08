@@ -16,7 +16,7 @@ Summer Semester 2024 (8 SWS):
 - Exercise: "Praat Scripting"
 - Seminar and accompanying exercise: "Methods of language description and documentation"
 
-Winter Semester 2023/24 (9SWS):
+Winter Semester 2023/24 (9 SWS):
 - Seminar and accompanying exercise: "Perception" (Speech perception and experimental methods)
 - Seminar and accompanying exercise: "Quantitative Methods" (Statistics and intro to R)
 - Seminar: "Experimental phonetic verification of phonological hypotheses" (literature reading)
