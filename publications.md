@@ -3,6 +3,9 @@ layout: page
 title: "Research"
 ---
 
+### Thesis
+**Muhlack, B.** (forthcoming). Filler particles: Phonetic details, cross-linguistic comparisons, and the recall effect. Universität des Saarlandes.
+
 ### Journal papers
 Pheiff, J., Frank, M., and **Muhlack, B.** (2023). Das sind sone Sachen: Son- mit Pluralnomen in den Regionalsprachen des Deutschen. Formen & Funktionen, Variation & Wandel. Niederdeutsches Wort 63, 63–87.
 
