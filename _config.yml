@@ -1,6 +1,6 @@
-title: "Beeke Muhlack"
-author: "Beeke Muhlack"
-description: "Beeke Muhlack, M.A."
+title: "Dr. Beeke Muhlack"
+author: "Dr. Beeke Muhlack"
+description: "Dr. Beeke Muhlack"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -23,7 +23,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "contact.md", title: "Contact", icon: id-badge}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  # - {title: Mail, icon: envelope, url: "mailto:muhlack@lst.uni-saarland.de"}
+  # - {title: Mail, icon: envelope, url: "mailto:b.muhlack@em.uni-frankfurt.de"}
   - {title: Researchgate, icon: researchgate, url: "https://www.researchgate.net/profile/Beeke-Muhlack"}
   - {title: LinkedIn, icon: linkedin, url: "https://de.linkedin.com/in/beeke-muhlack-3a76701a3"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/beekemuh"}
