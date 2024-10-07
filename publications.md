@@ -57,7 +57,7 @@ Elmers, M., Werner, R., **Muhlack, B.**, Möbius, B., and Trouvain, J. (2021). E
 
 
 ### Posters
-**Muhlack, B.** (2024). Learning by doing: Recording a speech corpus as seminar project. 20th Phonetik & Phonologie (P&P '24), Halle (Saale), October 01-02.
+**Muhlack, B.** (2024). Learning by doing: Recording a speech corpus as seminar project. 20th Phonetik & Phonologie (P&P '24), Halle (Saale), October 01-02. <a href = "/researchitems/P&P_Corpuspresentation.pdf" target = "_blank">Poster</a>
 
 **Muhlack, B.** (2023). Filler particles in English and Spanish L1 and L2 Speech. Proc. 20th International Congress of Phonetic Sciences (ICPhS '23), Prague, August 7-11. <a href = "/researchitems/Muhlack_ICPhS23_Poster.pdf" target = "_blank">Poster</a>
 
