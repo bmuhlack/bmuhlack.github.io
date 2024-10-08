@@ -91,10 +91,17 @@ Frank, M., **Muhlack, B.**, Zebe, F., and Scharinger, M. (2019). Pitch, Formants
 
 ### Conferences
 **You can meet me here:**
-- Phonetik und Phonologie im deutschsprachigen Raum (P&P), Halle
+- tba
 
 
 **You could have met me here:**
+
+<details>
+  <summary>2024</summary>
+  <ul>
+    <li>Phonetik und Phonologie im deutschsprachigen Raum (P&P), Halle (Saale)</li>
+  </ul>
+  </details>
 
 <details>
   <summary>2023</summary>
