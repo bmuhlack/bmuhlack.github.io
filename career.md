@@ -38,8 +38,7 @@ Institut für Germanistische Sprachwissenschaft, Philipps-Universität Marburg (
 
 
 ### Memberships
-- since 2020 IAFPA student member
-- 2022-24: Member of the <a href = "https://www.iafpa.net/about/student-reps/" target = "_blank">Student Committee</a> of the International Association of Forensic Phonetics and Acoustics (<a href = "https://www.iafpa.net/" target = "_blank">IAFPA</a>)
+- since 2020 <a href = "https://www.iafpa.net/" target = "_blank">IAFPA</a> student member, student representative (2022-24)
 
 
 ### Research Interests
