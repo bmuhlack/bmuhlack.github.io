@@ -6,13 +6,14 @@ title: "Academic career"
 Since October 2023: instructor (Lehrkraft für besondere Aufgaben) at the Institute for Empirical Linguistics\\
 Goethe-Universität Frankfurt (Germany)
 
-Since May 2020: Research assistant and PhD student in the Phonetics group\\
-Universität des Saarlandes, Saarbrücken (Germany)
-
 Since January 2022: Member of the <a href = "https://www.iafpa.net/about/student-reps/" target = "_blank">Student Committee</a> of the International Association of Forensic Phonetics and Acoustics (<a href = "https://www.iafpa.net/" target = "_blank">IAFPA</a>)
 
 
 ### Education
+2020-2024: Research assistant and PhD student in the Phonetics group at Universität des Saarlandes, Saarbrücken (Germany)\\
+Project: Pause-internal phonetic particles in speech communication
+Thesis: Filler particles : phonetic details, cross-linguistic comparisons, and the recall effect
+
 2017-20 M.A. Speech Science (specialisation: Phonetics)\\
 Thesis: "Nicht-Lexikalische Häsitationspartikeln in Erst- und Zweitsprache am Beispiel vom Deutschen und Englischen"\\
 (Non-lexical Hesitationsparticles in First and Second Language: An Example of German and English)\\
